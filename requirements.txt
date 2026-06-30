@@ -30,3 +30,8 @@ swanlab==0.7.11
 modelscope==1.30.0
 # torch==2.6.0
 # torchvision==0.21.0
+# Additional dependencies for standalone pre-training pipeline
+pyyaml>=6.0
+tensorboard>=2.14.0
+tqdm>=4.66.0
+tokenizers>=0.15.0
