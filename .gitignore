@@ -3,4 +3,11 @@ __pycache__/
 .DS_Store
 out
 website/
-docs-minimind/
+docs-minimind/*.pyo
+*.pt
+checkpoints/
+logs/
+wandb/
+*.egg-info/
+dist/
+build/
